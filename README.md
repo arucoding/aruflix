@@ -4,14 +4,14 @@
 
 Aruflix adalah aplikasi nonton buat Android. Buka, pilih judul, langsung nonton. Subtitle Indonesia nyala sendiri, nggak perlu setting apa-apa.
 
-[![Versi terbaru](https://img.shields.io/badge/versi-0.5.0-E50914)](https://github.com/arucoding/aruflix-bootstrap/releases/tag/aruflix-v0.5.0)
-[![Android](https://img.shields.io/badge/Android-6.0+-3DDC84)](https://github.com/arucoding/aruflix-bootstrap/releases/tag/aruflix-v0.5.0)
+[![Versi terbaru](https://img.shields.io/badge/versi-0.5.0-E50914)](https://github.com/arucoding/aruflix/releases/tag/aruflix-v0.5.0)
+[![Android](https://img.shields.io/badge/Android-6.0+-3DDC84)](https://github.com/arucoding/aruflix/releases/tag/aruflix-v0.5.0)
 
 ## 📥 Download
 
 **[⬇️ Download Aruflix v0.5.0 (APK, 4,2 MB)](https://da.gd/5GxeK)**
 
-Atau buka [halaman rilisnya](https://github.com/arucoding/aruflix-bootstrap/releases/tag/aruflix-v0.5.0) untuk lihat semua versi.
+Atau buka [halaman rilisnya](https://github.com/arucoding/aruflix/releases/tag/aruflix-v0.5.0) untuk lihat semua versi.
 
 ## ✨ Yang bisa kamu lakuin
 
@@ -33,7 +33,7 @@ Udah install versi lama? Download aja APK terbaru terus install — data nontonm
 
 ## 🔄 Cara update
 
-Aruflix ngecek sendiri kalau ada versi baru. Bisa juga cek langsung di [halaman rilis](https://github.com/arucoding/aruflix-bootstrap/releases).
+Aruflix ngecek sendiri kalau ada versi baru. Bisa juga cek langsung di [halaman rilis](https://github.com/arucoding/aruflix/releases).
 
 ## ❓ Sering ditanya
 
