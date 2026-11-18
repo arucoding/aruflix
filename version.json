@@ -1,1 +1,1 @@
-{"versionCode": 51, "versionName": "0.5.2", "apkUrl": "https://github.com/arucoding/aruflix/releases/download/aruflix-v0.5.2/aruflix-v0.5.2.apk", "changelog": "Update langsung dari aplikasi: tekan Update di banner, unduh jalan di dalam aplikasi lalu installer terbuka."}
+{"versionCode": 52, "versionName": "0.5.3", "apkUrl": "https://github.com/arucoding/aruflix/releases/download/aruflix-v0.5.3/aruflix-v0.5.3.apk", "changelog": "Perbaikan hasil audit: Next episode lintas season, download lebih stabil, backup bisa retry, seek tetap pause."}
